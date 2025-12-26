@@ -1,4 +1,4 @@
-```# AI Data Cleaning Assistant
+# AI Data Cleaning Assistant
 
 AI Data Cleaning Assistant is a web application that helps users automatically clean CSV datasets.
 Users can upload any CSV file, and the system applies a generic, dataset-independent data-cleaning workflow to handle common real-world data issues such as missing values, mixed data types, inconsistent text, and invalid numeric values.
@@ -46,7 +46,7 @@ The goal was not to over-clean the data, but to clean it carefully while clearly
 - PDF Reports: ReportLab
 
 ---
-
+```
 ## Project Structure
 
 ai_data_cleaning_assistant/
@@ -77,8 +77,7 @@ ai_data_cleaning_assistant/
 ├── uploads/
 ├── cleaned/
 └── README.md
-
----
+```
 
 ## How the Cleaning Works
 
