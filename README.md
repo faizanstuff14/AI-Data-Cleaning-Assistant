@@ -75,11 +75,11 @@ ai_data_cleaning_assistant/
 │   ├── schemas.py
 │   ├── auth.py
 │   ├── dependencies.py
-│
+│   │
 │   ├── routes/
 │   │   ├── auth_routes.py
 │   │   └── data_routes.py
-│
+│   │
 │   ├── cleaning/
 │   │   ├── schema.py
 │   │   ├── numeric.py
@@ -94,6 +94,7 @@ ai_data_cleaning_assistant/
 ├── uploads/
 ├── cleaned/
 └── README.md
+
 
 How the Cleaning Works
 
