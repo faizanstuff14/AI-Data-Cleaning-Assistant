@@ -1,4 +1,4 @@
-# AI Data Cleaning Assistant
+```# AI Data Cleaning Assistant
 
 AI Data Cleaning Assistant is a web application that helps users automatically clean CSV datasets.
 Users can upload any CSV file, and the system applies a generic, dataset-independent data-cleaning workflow to handle common real-world data issues such as missing values, mixed data types, inconsistent text, and invalid numeric values.
@@ -136,3 +136,4 @@ streamlit run frontend/streamlit_app.py
 - Keeping transformations transparent
 - Building a complete full-stack system
 - Handling real-world messy data
+```
