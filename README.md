@@ -117,16 +117,16 @@ pip install -r requirements.txt
 Create a PostgreSQL database and update the connection string in database.py.
 
 ### 4. Run Backend
-
+```
 uvicorn app.main:app --reload
 
 API Docs: http://127.0.0.1:8000/docs
-
+```
 ### 5. Run Frontend
-
+```
 streamlit run frontend/streamlit_app.py
 
----
+```
 
 ## What This Project Focuses On
 
@@ -135,4 +135,4 @@ streamlit run frontend/streamlit_app.py
 - Keeping transformations transparent
 - Building a complete full-stack system
 - Handling real-world messy data
-```
+
